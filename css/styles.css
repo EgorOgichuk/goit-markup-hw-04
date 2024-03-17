@@ -500,6 +500,7 @@ main {
   gap: 16px;
   width: 208px;
   height: 40px;
+  margin-top: 16px;
 }
 .footer-contact-icon {
   width: 40px;
